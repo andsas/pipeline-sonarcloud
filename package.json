@@ -1,0 +1,14 @@
+{
+  "name": "pipeline-sonarcloud",
+  "version": "1.0.0",
+  "description": "Atividade de conclusão do módulo",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "André Santos <m1andsas@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
